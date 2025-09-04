@@ -11,7 +11,6 @@ import (
 	"net/http"
 	"os"
 	"time"
-
 	"github.com/bootdotdev/learn-cicd-starter/internal/database"
 
 	_ "github.com/tursodatabase/libsql-client-go/libsql"
